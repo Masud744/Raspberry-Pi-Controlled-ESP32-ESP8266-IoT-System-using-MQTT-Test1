@@ -118,7 +118,7 @@ RaspberryPi-ESP32-ESP8266-MQTT-IoT/
 
 ## 🎥 Demonstration
 
-Demo videos showing real-time system operation are available in the `media/` directory.
+(https://youtu.be/RvxoX19eNqE?si=DetFWGmVjkIpCfRK)
 
 ---
 
